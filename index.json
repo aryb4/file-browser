@@ -1,0 +1,23 @@
+{
+  "name": "adam",
+  "age": 30,
+  "country": "us",
+  "addresses":
+  [
+    {
+      "number" : 112,
+      "street" : "main st",
+      "country" : "us"
+    },
+    {
+      "number" : 2,
+      "street" : "second st",
+      "country" : "us"
+    },
+    {
+      "number" : 3,
+      "street" : "third st",
+      "country" : "ca"
+    }
+  ]
+}
