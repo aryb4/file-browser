@@ -1,23 +1,13 @@
 {
-  "name": "adam",
-  "age": 30,
-  "country": "us",
+  "name": "aryan",
+  "age": 21,
+  "country": "US",
   "addresses":
   [
     {
-      "number" : 112,
-      "street" : "main st",
-      "country" : "us"
-    },
-    {
-      "number" : 2,
-      "street" : "second st",
-      "country" : "us"
-    },
-    {
-      "number" : 3,
-      "street" : "third st",
-      "country" : "ca"
+      "number" : 3589,
+      "street" : "Otsego Drive",
+      "country" : "US"
     }
   ]
 }
